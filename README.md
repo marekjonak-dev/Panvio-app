@@ -30,22 +30,22 @@ Panvio is a people-to-people platform for buying and selling fresh food locally.
 ## 📸 Screenshots
 
 ### Home / Map
-![Home](images/home.png)
+![Home](images/home.jpg)
 
 ### Product Listing
-![Listing](images/listing.png)
+![Listing](images/listing.jpg)
 
 ### Messaging
-![Messaging](images/messaging.png)
+![Messaging](images/messaging.jpg)
 
 ### Map search
-![Map](images/map.png)
+![Map](images/map.jpg)
 
 ### Basket
-![Basket](images/basket.png)
+![Basket](images/basket.jpg)
 
 ### Orders
-![Orders](images/orders.png)
+![Orders](images/orders.jpg)
 
 ---
 

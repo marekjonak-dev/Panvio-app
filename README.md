@@ -1,6 +1,8 @@
 # Panvio – Fresh Food Marketplace App
 
-Panvio is a people-to-people platform for buying and selling fresh food locally. It focuses on making local food exchange simple and accessible.
+Panvio is a real-world marketplace app for buying and selling fresh food locally, people-to-people.
+
+It allows users to discover nearby sellers, place orders, communicate directly, and verify transactions using QR codes — all in one platform.
 
 ---
 
@@ -46,6 +48,15 @@ Panvio is a people-to-people platform for buying and selling fresh food locally.
 
 ### Orders
 ![Orders](images/orders.jpg)
+
+---
+
+## 👨‍💻 My Role
+
+- Designed and built the application from scratch  
+- Developed core features including search, messaging and order system  
+- Implemented QR-based verification flow  
+- Focused on usability and real-world functionality
 
 ---
 

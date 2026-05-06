@@ -38,14 +38,14 @@ Panvio is a people-to-people platform for buying and selling fresh food locally.
 ### Messaging
 ![Messaging](images/messaging.png)
 
-### QR Verification
-![QR](images/map.png)
+### Map search
+![Map](images/map.png)
 
-### QR Verification
-![QR](images/basket.png)
+### Basket
+![Basket](images/basket.png)
 
-### QR Verification
-![QR](images/orders.png)
+### Orders
+![Orders](images/orders.png)
 
 ---
 
